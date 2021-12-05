@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Seshadri. Call me "Sesh"
-- 👀 I’m interested in ... Algos, Compiler, Linux Kernel, Web application Development. With Love in, C++ Java Python. Js frameworks.
-- 🌱 I’m currently learning ... Rust and ReactJs.
-- 💞️ I’m looking to collaborate on ... LLVM related projects, Open source initiatives.
+- 👋 Hi, I’m Seshadri. Call me "Sesha"
+- 👀 I’m interested in ... Algos, Compiler, Linux Kernel, Full Stack Development. With Love in, C++ Java Python. Js frameworks.
+- 🌱 I’m currently learning ... Java and ReactJs.
+- 💞️ I’m looking to collaborate on ... Open source initiatives.
 - 📫 How to reach me ... Drop a mail to sesh@outlook.in
 
 <!---
